@@ -17,7 +17,7 @@ araujorocha.samyra@gmail.com
 
 Projeto Parallax 🚧
 
-Bem-vindo ao repositório do projeto Parallax! Este projeto apresenta o efeito parallax, proporcionando uma experiência visual mais agradável.
+Este projeto apresenta o efeito parallax, proporcionando uma experiência visual mais agradável.
 
 <br />
 
