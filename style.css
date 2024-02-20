@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    color: #fafafc;
+    color: #ebebeb;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     word-wrap: break-word;
     overflow: break-word;
@@ -63,6 +63,7 @@ section.module_parallax_english {
     height: 100vh !important;
     width: 100%;
     position: relative;
+    opacity: 90%;
     overflow: hidden;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -71,6 +72,7 @@ section.module_parallax_english {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+   
 
 }
 
@@ -88,14 +90,16 @@ section.module_parallax_english:after {
 
 section.module_parallax_english {
     background-image: url(https://th.bing.com/th/id/OIG1.XbL4bD5kaxH4ErfFpfrj?w=1024&h=1024&rs=1&pid=ImgDetMain);
+    
 }
 
 section.module_parallax_english h1 {
-    color: #04045d;
+    color: #040447;
     text-align: center;
-    font-size: 90px;
-    z-index: 50;
+    font-size: 100px;
+    z-index: 60;
     text-decoration: uppercase;
+   
 }
 
 section.module_parallax_blackboard {
@@ -180,4 +184,7 @@ section.module_parallax_design h1 {
     font-size: 90px;
     z-index: 50;
     text-decoration: uppercase;
+}
+.area-1, .area-2, .area-3{
+    visibility: hidden;
 }
