@@ -3,31 +3,34 @@ Fala Dev! Bem vindo(a) ao projeto. 👊
 <br />
 <br />
 
-🤝 Interações
+## 🤝 Interações
 
 Intereções são sempre bem-vindas! Sinta-se à vontade para enviar e-mails ou pull requests em caso dúvidas ou sugestões.
-
+<br />
 <br />
 
-📬 Contato
+
+## 📬 Contato
 
 araujorocha.samyra@gmail.com 
 <br />
 <br />
 
-Projeto Parallax 🚧
+## Projeto Parallax 🚧
 
 Este projeto apresenta o efeito parallax, proporcionando uma experiência visual mais agradável.
-
+<br />
 <br />
 
-🚀 Introdução
+
+## 🚀 Introdução
 
 O efeito parallax é uma técnica de design que cria uma ilusão de profundidade, movendo diferentes camadas de elementos. Neste projeto, explorei esse efeito para aprimorar a estética do site.
-
+<br />
 <br />
 
-🌐 Visualização
+
+## 🌐 Visualização
 
 Confira o site em ação aqui: http://127.0.0.1:5500/index.html
 
@@ -37,44 +40,42 @@ Confira o site em ação aqui: http://127.0.0.1:5500/index.html
 <br />
 <br />
 
-🛠️ Como Executar
+## 🛠️ Como Executar
 
-Clone este repositório: git clone https://github.com/araujorocha/cursos.git
-Abra o arquivo index.html em seu navegador.
-
+- Clone este repositório: git clone https://github.com/araujorocha/cursos.git
+- Abra o arquivo index.html em seu navegador.
+<br />
 <br />
 
-🖼️ Tecnologias Utilizadas (Até o momento)
+## 🖼️ Tecnologias Utilizadas (Até o momento)
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-<br />
-
-🌈 Recursos e Destaques
+## 🌈 Recursos e Destaques
 
 Efeito Parallax: Camadas de elementos movendo-separa criar uma experiência visual mais atraente.
 
 Responsivo: O site é ajustado para funcionar em diversos navegadores.
-
+<br />
 <br />
 
-🚧 Em Construção
+## 🚧 Em Construção
 
 Este projeto está atualmente em fase de construção. Novos recursos e melhorias estão a caminho! 🛠️
 <br />
 <br />
 
-🛤️ Próximos Passos
+## 🛤️ Próximos Passos
 
-Adicionar efeito Scroll Reveal: Deixar o layout mais dinâmico 
+- Adicionar efeito Scroll Reveal: Deixar o layout mais dinâmico 
 
-Adicionar botão WhatsApp
+- Adicionar botão WhatsApp
 
-Otimizar código
+- Otimizar código
 <br />
 <br />
 
 
-Obrigada por visitar esse projeto 🌟
+### Obrigada por visitar esse projeto 🌟
