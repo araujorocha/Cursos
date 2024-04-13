@@ -57,7 +57,7 @@ Confira o site em ação aqui: http://127.0.0.1:5500/index.html
 
 Efeito Parallax: Camadas de elementos movendo-separa criar uma experiência visual mais atraente.
 
-Responsivo: O site é ajustado para funcionar em diversos navegadores.
+Navegadores: Ajustado para funcionar em navegadores (Firefox), (Chrome, Safari, Opera). Além disso, para navegadores que suportam o padrão CSS.
 <br />
 <br />
 
